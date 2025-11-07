@@ -21,8 +21,3 @@
 
 ## 🧰 Librerías
 `pandas`, `numpy`, `scikit-learn`, `xgboost`, `optuna`, `matplotlib`
-
-## 📝 Notas
-- Documenta los grupos de **unit_number** usados en cada fold de CV.
-- Guarda las curvas de **feature importance** y compara con el modelo base.
-
