@@ -19,12 +19,3 @@ Repositorio con dos casos de estudio del curso **Inteligencia Artificial Industr
 - **EX2 (RUL):** XGBoost con Optuna redujo RMSE de **≈37.9** a **≈35.8** en promedio (CV).
 
 > Detalles y gráficos en los README de cada proyecto.
-
-## ▶️ Cómo ejecutar
-1. Clonar el repo y entrar a la carpeta del proyecto (EX1/EX2).
-2. Abrir el notebook (`.ipynb`) en **Jupyter/VSCode** o **Colab**.
-3. Ejecutar las celdas en orden; cada notebook incluye notas de entorno.
-
-```bash
-git clone <URL_DE_TU_REPO_INDUSTRIAL_AI>.git
-cd EXAM2_RUL_Estimation        # o EXAM1_Spacecraft_Fault_Detection
