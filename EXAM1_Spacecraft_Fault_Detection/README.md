@@ -23,8 +23,3 @@
 
 ## 🧰 Librerías
 `pandas`, `numpy`, `scikit-learn`, `xgboost`, `matplotlib`
-
-## 📝 Notas
-- Mantén la separación **Spacecraft 1 & 2 → train | Spacecraft 3 → val/test** para reproducibilidad.
-- Ajusta hiperparámetros si agregas nuevas features.
-
