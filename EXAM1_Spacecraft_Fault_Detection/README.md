@@ -1,6 +1,3 @@
-## 2.a) Proyecto: **EXAM1_Spacecraft_Fault_Detection**  
-**Archivo:** `EXAM1_Spacecraft_Fault_Detection/README.md`
-
 # 🚀 EX1 — Spacecraft Propulsion System · Fault Detection
 
 **Problema:** Identificar la **válvula defectuosa (0–3)** en un sistema de propulsión a partir de señales de **presión (P2)**.
